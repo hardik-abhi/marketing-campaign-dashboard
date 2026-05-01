@@ -52,12 +52,6 @@ marketing_project/
 
 
 
-## 📊 Dashboard Preview
-
-*
-
-
-
 ## 📈 Business Impact
 
 | Recommendation | Expected Impact | Timeline |
