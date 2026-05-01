@@ -85,4 +85,4 @@ marketing_project/
 **Hardik Mudgal**  
 Marketing Executive → Data Analyst & Project Manager  
 📧 hardikmudgal7793@gmail.com  
-🔗 [LinkedIn](#) ← add your LinkedIn URL here
+🔗 [www.linkedin.com/in/hardik-mudgal-9b3138245](http://www.linkedin.com/in/hardik-mudgal-9b3138245)
